@@ -131,7 +131,7 @@
 }
 
 .hero {
-  background-image: url('hero_bg.avif');
+  background-image: url('images/hero_bg.avif');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -144,7 +144,7 @@
 
 @media(max-width: 992px){
   .hero{
-  background-image: url('hero_bg.avif');
+  background-image: url('images/hero_bg.avif');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
